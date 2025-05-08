@@ -30,8 +30,8 @@ A comprehensive system for managing restaurants, menus, dishes, employees, and m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/restaurant-management-system.git
-   cd restaurant-management-system
+   git clone https://github.com/sohelshekhIn/Restaurant-Franchise-Management-System.git
+   cd Restaurant-Franchise-Management-System
    ```
 
 2. Install dependencies:
@@ -48,6 +48,8 @@ A comprehensive system for managing restaurants, menus, dishes, employees, and m
    DB_USER=your_db_user
    DB_PASSWORD=your_db_password
    DB_NAME=rms
+   DB_PORT=3306
+   GEMINI_API_KEY=YOUR_GEMINI_API_KEY
    ```
 
 4. Set up the database:
